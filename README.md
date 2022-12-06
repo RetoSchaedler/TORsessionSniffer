@@ -1,11 +1,11 @@
 # TORsessionSniffer
 ## Sniffer detects TOR (The Onion Router) Traffic from your Network. IPv4 &amp; IPv6
 
-PLEASE DONATE [paypal.me/retoPay](https://paypal.me/retoPay)
+If you like it, please donate [paypal.me/retoPay](https://paypal.me/retoPay)
 
 Use a managed switch, and mirror the Internet Port to your Sniffer PC.
 ## Installation on Windows:
-Install Python3
+Install Python3.
 In the command shell execute: 
 ```
 pip install -r requirements.txt (in the TORsessionSniffer Folder)
@@ -16,7 +16,7 @@ sudo apt-get update
 sudo apt-get install python3
 pip3 install -r requirements.txt
 ```
-## Run the application, set with -i the Network Interface
+## Run the application, set with -i the Network Interface Name
 ```
 $ sudo python3 torSniffer.py -i enp0s8
 ***************************************
