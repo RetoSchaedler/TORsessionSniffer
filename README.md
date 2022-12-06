@@ -6,13 +6,16 @@ PLEASE DONATE [paypal.me/retoPay](https://paypal.me/retoPay)
 Use a managed switch, and mirror the Internet Port to your Sniffer PC.
 ## Installation on Windows:
 Install Python3
-In the command shell execute: pip install -r requirements.txt (in the TORsessionSniffer Folder)
-
+In the command shell execute: 
+```
+pip install -r requirements.txt (in the TORsessionSniffer Folder)
+```
 ## Installation on Ubuntu-Linux: 
+```
 sudo apt-get update
 sudo apt-get install python3
 pip3 install -r requirements.txt
-
+```
 ## Run the application, set with -i the Network Interface
 ```
 $ sudo python3 torSniffer.py -i enp0s8
