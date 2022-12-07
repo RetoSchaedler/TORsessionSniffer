@@ -6,9 +6,9 @@ If you like it, please donate [paypal.me/retoPay](https://paypal.me/retoPay)
 Use a managed switch, and mirror the Internet Port to your Sniffer PC to detect TOR traffic from your Clients.
 ## Installation on Windows:
 Install Python3.
-In the command shell execute: 
+In the command shell execute in the TORsessionSniffer Folder: 
 ```
-pip install -r requirements.txt (in the TORsessionSniffer Folder)
+pip install -r requirements.txt
 ```
 ## Installation on Ubuntu-Linux:
 Run the "pip3 install -r requirements.txt" command in the TORsessionSniffer folder.
