@@ -1,5 +1,5 @@
 # TORsessionSniffer
-## Sniffer detects TOR (The Onion Router) Traffic from your Network. IPv4 &amp; IPv6
+## Sniffer detects TOR (The Onion Router) Traffic from your Network Clients. IPv4 &amp; IPv6
 
 If you like it, please donate [paypal.me/retoPay](https://paypal.me/retoPay)
 
@@ -35,3 +35,4 @@ IPv4 TOR-Session-Detected:
 Time: 2022-12-06_23:26:50
 
 ```
+![Port Mirroring](https://github.com/RetoSchaedler/TORsessionSniffer/blob/main/PortMirrorSwitchExample.png)
