@@ -1,4 +1,4 @@
-# TORsessionSniffer
+# TORsessionSniffer :onion: 🖧
 ## Sniffer detects TOR (The Onion Router) Traffic from your Network Clients. IPv4 &amp; IPv6
 
 If you like it, please donate [paypal.me/retoPay](https://paypal.me/retoPay)
