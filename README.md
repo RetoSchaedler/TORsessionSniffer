@@ -3,7 +3,7 @@
 
 If you like it, please donate [paypal.me/retoPay](https://paypal.me/retoPay)
 
-Use a managed switch, and mirror the Internet Port to your Sniffer PC.
+Use a managed switch, and mirror the Internet Port to your Sniffer PC to detect TOR traffic from your Clients.
 ## Installation on Windows:
 Install Python3.
 In the command shell execute: 
@@ -35,4 +35,6 @@ IPv4 TOR-Session-Detected:
 Time: 2022-12-06_23:26:50
 
 ```
+## Switch
+### Activate Port Mirroring:
 ![Port Mirroring](https://github.com/RetoSchaedler/TORsessionSniffer/blob/main/PortMirrorSwitchExample.png)
