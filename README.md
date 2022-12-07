@@ -10,7 +10,8 @@ In the command shell execute:
 ```
 pip install -r requirements.txt (in the TORsessionSniffer Folder)
 ```
-## Installation on Ubuntu-Linux: 
+## Installation on Ubuntu-Linux:
+Run the "pip3 install -r requirements.txt" command in the TORsessionSniffer folder.
 ```
 sudo apt-get update
 sudo apt-get install python3
